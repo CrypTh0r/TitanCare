@@ -15,3 +15,4 @@ Certificate Agent: Awards a digital certificate as VC, acting as an access pass 
 Minimize Menu Agent: Allows for having a larger view of the outputs on the screen by minimizing the AI Agents menu at the bottom of the screen.
 
 TitanCare has been made using AIGNE, a no-code AI engine provided by the Arcblock platform. However, the blocklet.json and package zip file (containing: resources folder, screenshots folder, blocklet.ylm, CHANGELOG.md, Logo.png, and README.md) have been included in the repository.
+TitanCare is fully operational, currently in Beta, and can be launched on a server from ArcBlock's blocklet Test store: https://test.store.blocklet.dev/blocklets/z2qa6J7ALPZUzBpRC6W3WxMWGfaMgDKQS2dLr
