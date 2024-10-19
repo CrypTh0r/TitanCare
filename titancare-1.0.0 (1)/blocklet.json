@@ -1,0 +1,87 @@
+{
+  "did": "z2qa6J7ALPZUzBpRC6W3WxMWGfaMgDKQS2dLr",
+  "name": "z2qa6J7ALPZUzBpRC6W3WxMWGfaMgDKQS2dLr",
+  "title": "TitanCare",
+  "description": "AI Health Services",
+  "version": "1.0.0",
+  "logo": "logo.png",
+  "resource": {
+    "bundles": [
+      {
+        "did": "z2qa6J7ALPZUzBpRC6W3WxMWGfaMgDKQS2dLr",
+        "type": "config"
+      },
+      {
+        "did": "z8iZpog7mcgcgBZzTiXJCWESvmnRrQmnd3XBB",
+        "type": "application"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "z2qa6fvjmjew4pWJyTsKaWFuNoMUMyXDh5A1D",
+      "source": {
+        "name": "z2qa6fvjmjew4pWJyTsKaWFuNoMUMyXDh5A1D",
+        "version": "latest",
+        "store": "https://store.blocklet.dev"
+      },
+      "required": true
+    }
+  ],
+  "files": [
+    "screenshots"
+  ],
+  "screenshots": [
+    "db90cc5d6c2e21d1b8ad3023758b5542.jpeg",
+    "a4aca067bdb6312214e21eb06ec0896e.jpeg",
+    "3c2a005c236b94f49e0e8eec154764dc.jpeg",
+    "6c8e2e44701497d05c3a5c6f24f16420.jpeg"
+  ],
+  "engine": {
+    "interpreter": "blocklet",
+    "source": {
+      "store": "https://store.blocklet.dev",
+      "name": "z2qaBP9SahqU2L2YA3ip7NecwKACMByTFuiJ2",
+      "version": "latest"
+    },
+    "args": []
+  },
+  "capabilities": {
+    "navigation": false
+  },
+  "interfaces": [
+    {
+      "name": "publicUrl",
+      "path": "/",
+      "port": "BLOCKLET_PORT",
+      "prefix": "*",
+      "protocol": "tcp",
+      "type": "web"
+    }
+  ],
+  "specVersion": "1.0.0",
+  "community": "",
+  "documentation": "",
+  "homepage": "",
+  "license": "",
+  "nftFactory": "",
+  "payment": {
+    "price": [],
+    "share": []
+  },
+  "timeout": {
+    "start": 60
+  },
+  "requirements": {
+    "server": ">=1.7.0",
+    "os": "*",
+    "cpu": "*",
+    "nodejs": "*"
+  },
+  "environments": [],
+  "dist": {
+    "tarball": "z2qa6J7ALPZUzBpRC6W3WxMWGfaMgDKQS2dLr-1.0.0.tgz",
+    "integrity": "sha512-7hemGE8cTWHSLs/aIl1uoxq9fcEm71rWQe6yXRY9OOMdJZv21NeyxBIOlF/OlOVpThV6LQBnQMc3vAnYq4dW4g==",
+    "size": 13390108
+  }
+}
