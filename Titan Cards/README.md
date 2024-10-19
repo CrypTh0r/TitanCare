@@ -1,4 +1,4 @@
-Titan Cards is a memory game. It was created as a demonstration for how the TitanCare app VC passport can act as an access pass to other Dapps (such as an access pass for Titan Cards, in this instance). Find all the matching pairs under the Brain Titan logo to win the game. Part of the Brain Titan domain/ecosystem, but it is a re-usable component for users to implement into their own websites, or to download and play locally on their own blocklet domain.
+Titan Cards is a memory game. It was created as a demonstration for how the TitanCare app issued VC passport (thorugh the Certificate AI Agent) can act as an access pass to other Dapps (such as an access pass for Titan Cards, in this instance). Find all the matching pairs under the Brain Titan logo to win the game. Part of the Brain Titan domain/ecosystem, but it is a re-usable component for users to implement into their own websites, or to download and play locally on their own blocklet domain.
 
 Compatibility: 
 Desktop (For best experience)
